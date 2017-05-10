@@ -1,0 +1,5 @@
+#  Ignore .swp files from server
+*.swp
+
+# Ignore .DS_Store
+.DS_Store

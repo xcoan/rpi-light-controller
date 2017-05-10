@@ -8,6 +8,7 @@ GPIO.setup(17, GPIO.OUT)
 GPIO.setup(23, GPIO.OUT)
 GPIO.setup(25, GPIO.OUT)
 
+# Causes all lights to blink in sequence
 for i in range(0, 10):
 	GPIO.output(4, True)
 	time.sleep(1)
