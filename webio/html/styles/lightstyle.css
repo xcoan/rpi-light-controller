@@ -2,13 +2,13 @@
 	height: 100%;
 }
 
-.head {
+.header {
 	top: 0;
 	text-align: center;
 	background-color: #FFB733;
 }
 
-.tail {
+.footer {
 	bottom: 0;
 	text-align: center;
 	background-color: #FFB733;
@@ -26,20 +26,8 @@ button {
 	font: bold 18px Arial, sans-serif;
 	color: black;
 
-	/*text-shadow: 1px 1px 1px rgba(255,255,255, .22);
-	-webkit-border-radius: 30px;
-	-moz-border-radius: 30px;
+	text-shadow: 1px 1px 1px rgba(255,255,255, .22);
 	border-radius: 30px;
-
-	-webkit-box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 1px 1px 1px rgba(255,255,255, .44);
-	-moz-box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 1px 1px 1px rgba(255,255,255, .44);
-	box-shadow: 1px 1px 1px rgba(0,0,0, .29), inset 1px 1px 1px rgba(255,255,255, .44);
-
-	-webkit-transition: all 0.15s ease;
-	-moz-transition: all 0.15s ease;
-	-o-transition: all 0.15s ease;
-	-ms-transition: all 0.15s ease;
-	transition: all 0.15s ease;*/
 }
 
 
